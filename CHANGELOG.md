@@ -1,5 +1,7 @@
 
 
+## 1.0.1 (2023-09-04)
+
 ## [1.4.3](https://github.com/jay-biztech/automate-release/compare/1.4.2...1.4.3) (2023-09-04)
 
 ## [1.4.2](https://github.com/jay-biztech/automate-release/compare/1.4.1...1.4.2) (2023-09-04)
